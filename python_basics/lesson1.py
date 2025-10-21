@@ -26,3 +26,4 @@ hobby= "painting"
 city="New York"
 mood= "happy"
 print(f"the city I live in is {city}, the date is {date} and the weather is {weather}. My hobby is {hobby}. My mood right now is {mood}.")
+print("we did it")
